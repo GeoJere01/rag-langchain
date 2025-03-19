@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "001-streamlit-redaction-improver"
+name = "rag-langchain"
 version = "0.1.0"
 description = ""
 authors = ["julio colomer <info@aiaccelera.com>"]
